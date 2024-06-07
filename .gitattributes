@@ -1,0 +1,61 @@
+# Scripts
+**/*.js         text eol=lf encoding=utf8
+**/*.jsx        text eol=lf encoding=utf8
+**/*.ts         text eol=lf encoding=utf8
+**/*.tsx        text eol=lf encoding=utf8
+**/*.py         text eol=lf encoding=utf8
+**/*.bat        text eol=lf encoding=sjis
+**/*.ps1        text eol=lf encoding=sjis
+**/*.sh         text eol=lf encoding=utf8
+
+# Documents
+**/*.md         text eol=lf encoding=utf8
+**/*.txt        text eol=lf encoding=utf8
+**/*.ini        text eol=lf encoding=utf8
+**/*.log        text eol=lf encoding=utf8
+**/*.conf       text eol=lf encoding=utf8
+**/*.json       text eol=lf encoding=utf8
+**/*.yaml       text eol=lf encoding=utf8
+**/*.toml       text eol=lf encoding=utf8
+**/*.xml        text eol=lf encoding=utf8
+**/*.csv        text eol=lf encoding=utf8
+**/*.htm        text eol=lf encoding=utf8
+**/*.html       text eol=lf encoding=utf8
+**/*.css        text eol=lf encoding=utf8
+**/*.css.map    text eol=lf encoding=utf8
+**/*.scss       text eol=lf encoding=utf8
+**/*.lock       text eol=lf encoding=utf8
+
+# Images
+**/*.bmp        binary
+**/*.BMP        binary
+**/*.gif        binary
+**/*.GIF        binary
+**/*.jpg        binary
+**/*.JPG        binary
+**/*.jpeg       binary
+**/*.JPEG       binary
+**/*.png        binary
+**/*.PNG        binary
+**/*.webp       binary
+**/*.WEBP       binary
+**/*.avif       binary
+**/*.AVIF       binary
+**/*.gltf       text eol=lf encoding=utf8
+**/*.svg        text eol=lf encoding=utf8
+
+# Audios
+**/*.wav        binary
+**/*.ogg        binary
+**/*.mp3        binary
+**/*.wma        binary
+**/*.m4a        binary
+**/*.flac       binary
+**/*.acc        binary
+
+# Videos
+**/*.mpeg       binary
+**/*.mp4        binary
+**/*.m4v        binary
+**/*.wmv        binary
+**/*.mov        binary
